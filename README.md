@@ -119,6 +119,13 @@
 </p>
 
 <h3 align="center">👨‍💻 Most Used Languages 📊</h3>
+
+<p align="center">
+  <a href="https://www.nawfalrazouk.live/" target="blank"
+    ><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=tokyonight"
+  /></a>
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
