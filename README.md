@@ -1,4 +1,6 @@
-<img src="./assets/giphy.gif" />
+<p align="center">
+  <img src="./assets/giphy.gif" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nawfal-razouk/" target="blank"
@@ -117,7 +119,7 @@
 </p>
 
 <h3 align="center">👨‍💻 Most Used Languages 📊</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
