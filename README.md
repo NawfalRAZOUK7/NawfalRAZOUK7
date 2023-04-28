@@ -23,7 +23,7 @@
   /></a>
   <a href="https://www.nawfalrazouk.live/" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=PortFolio&color=09344D&style=for-the-badge&logo=wwe&logoColor=white"
+      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=Port Folio&color=09344D&style=for-the-badge&logo=wwe&logoColor=white"
   /></a>
 </p>
 
@@ -141,11 +141,6 @@
     />
   </a>
   <br />
-  <a href="https://commits.top/philippines_private.html">
-    <img
-      src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=09344D&message=Top 1%&color=B1361E&style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
 </p>
 
 ---
