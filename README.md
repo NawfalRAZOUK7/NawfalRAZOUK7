@@ -1,3 +1,5 @@
+### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Nawfal!</span> 👋</h1>
+
 <p align="center">
   <img src="./assets/giphy.gif" />
 </p>
@@ -31,9 +33,7 @@
 
 ---
 
-### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Nawfal!</span> 👋</h1>
-
-<p align="right">
+<p align="left">
   With a keen eye for detail and a creative approach, I am a IT engineer who is deeply fascinated by Software Development. I am driven by a thirst for knowledge and a determination to tackle real-world challenges. My passion for exploring new technologies and domains allows me to create innovative solutions. Currently, I am honing my skills in web development and striving to build my vision of a digital world, one step at a time.💻✨
 </p>
 
