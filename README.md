@@ -140,6 +140,12 @@
       src="https://github-readme-stats-alpha-vert-57.vercel.app/?user=NawfalRAZOUK7&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
     />
   </a>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=NawfalRAZOUK7&hide_border=true&border_radius=8&background=45%2C020617%2C1E293B&dates=38BDF8&fire=F97316&border=0EA5E9&stroke=0EA5E9&ring=F97316&currStreakNum=FACC15&sideNums=E5E7EB&currStreakLabel=E5E7EB&sideLabels=CBD5F5&excludeDaysLabel=E5E7EB"
+      alt="GitHub Streak"
+    />
+  </a>
   <br />
 </p>
 
