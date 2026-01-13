@@ -123,7 +123,7 @@
 <p align="center">
   <a href="https://www.nawfalrazouk.live/" target="blank"
     ><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=tokyonight"
   /></a>
 </p>
 
