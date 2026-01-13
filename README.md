@@ -137,7 +137,7 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="Nawfal RAZOUK's streak"
-      src="https://streak-stats.demolab.com/?user=NawfalRAZOUK7&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
+      src="https://github-readme-stats-alpha-vert-57.vercel.app/?user=NawfalRAZOUK7&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
     />
   </a>
   <br />
