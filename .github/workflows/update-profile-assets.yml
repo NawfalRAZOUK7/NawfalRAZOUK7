@@ -20,20 +20,27 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install SVG renderer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+
       - name: Generate profile SVG assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: NawfalRAZOUK7
-        run: python .github/scripts/generate_trophies.py
+        run: |
+          python .github/scripts/generate_trophies.py
+          rsvg-convert assets/profile-pulse.svg -o assets/profile-pulse.png
 
       - name: Commit updated profile assets
         run: |
-          if git diff --quiet -- assets/trophy.svg assets/profile-pulse.svg; then
+          if git diff --quiet -- assets/trophy.svg assets/profile-pulse.svg assets/profile-pulse.png; then
             echo "No profile asset changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/trophy.svg assets/profile-pulse.svg
+          git add assets/trophy.svg assets/profile-pulse.svg assets/profile-pulse.png
           git commit -m "Update profile SVG assets"
           git push

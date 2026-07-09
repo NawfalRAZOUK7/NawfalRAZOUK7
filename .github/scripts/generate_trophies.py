@@ -234,9 +234,9 @@ def generate_pulse_svg(username: str, user: dict, repos: list[dict], now: dt.dat
   <rect x="1" y="1" width="758" height="428" rx="19" fill="none" stroke="#38bdf8" stroke-opacity=".24"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="34" y="46" fill="#e5e7eb" font-size="27" font-weight="900">GitHub Pulse</text>
-    <text x="34" y="72" fill="#94a3b8" font-size="13">Generated from public GitHub data for @{html.escape(username)} - {generated}</text>
+    <text x="34" y="72" fill="#94a3b8" font-size="13">Public GitHub data - {generated}</text>
     <text x="398" y="46" fill="#e5e7eb" font-size="22" font-weight="800">Language Signal</text>
-    <text x="398" y="72" fill="#94a3b8" font-size="13">Weighted by code bytes across public repositories</text>
+    <text x="398" y="72" fill="#94a3b8" font-size="13">Weighted public repository code mix</text>
 {''.join(metrics)}
     <rect x="34" y="342" width="324" height="52" rx="14" fill="#111827" stroke="#334155"/>
     <text x="54" y="365" fill="#94a3b8" font-size="12" font-weight="700">Latest public activity</text>

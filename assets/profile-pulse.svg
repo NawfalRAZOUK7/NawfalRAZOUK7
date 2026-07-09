@@ -12,9 +12,9 @@
   <rect x="1" y="1" width="758" height="428" rx="19" fill="none" stroke="#38bdf8" stroke-opacity=".24"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="34" y="46" fill="#e5e7eb" font-size="27" font-weight="900">GitHub Pulse</text>
-    <text x="34" y="72" fill="#94a3b8" font-size="13">Generated from public GitHub data for @NawfalRAZOUK7 - 2026-07-09 12:55 UTC</text>
+    <text x="34" y="72" fill="#94a3b8" font-size="13">Public GitHub data - 2026-07-09 12:59 UTC</text>
     <text x="398" y="46" fill="#e5e7eb" font-size="22" font-weight="800">Language Signal</text>
-    <text x="398" y="72" fill="#94a3b8" font-size="13">Weighted by code bytes across public repositories</text>
+    <text x="398" y="72" fill="#94a3b8" font-size="13">Weighted public repository code mix</text>
 
   <g transform="translate(34 112)">
     <rect width="152" height="94" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-opacity=".42"/>

@@ -124,7 +124,7 @@ The trophy board is generated locally from public GitHub data and refreshed by G
 
 <div align="center">
 
-<img src="./assets/profile-pulse.svg" alt="GitHub pulse generated from public profile metrics and language usage" />
+<img src="./assets/profile-pulse.png" alt="GitHub pulse generated from public profile metrics and language usage" />
 
 <br /><br />
 
