@@ -48,11 +48,8 @@
 
 I am an IT engineer focused on software development, data-driven products, and AI-assisted platforms. I like building practical systems that connect clean interfaces, useful automation, and real-world analytics.
 
-- Currently building around **SmartHR360**, analytics dashboards, and applied AI workflows.
 - Interested in **full-stack development**, **data engineering**, **automation**, and **human-centered digital tools**.
 - I enjoy turning rough ideas into working prototypes, then refining them into useful products.
-- Open to **internships**, **collaboration**, and practical full-stack, data, or AI product work.
-- Portfolio: **[nawfalrazouk.live](https://www.nawfalrazouk.live/)**
 
 ---
 
@@ -97,31 +94,12 @@ I am an IT engineer focused on software development, data-driven products, and A
 
 ## Featured Work
 
-<div align="center">
-
-<a href="https://github.com/NawfalRAZOUK7/Mental-Health">
-  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=Mental-Health&theme=github_dark&hide_border=true" alt="Mental-Health repository card" />
-</a>
-<a href="https://github.com/NawfalRAZOUK7/smarthr360-platform">
-  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=smarthr360-platform&theme=github_dark&hide_border=true" alt="smarthr360-platform repository card" />
-</a>
-<a href="https://github.com/NawfalRAZOUK7/apm-observability">
-  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=apm-observability&theme=github_dark&hide_border=true" alt="apm-observability repository card" />
-</a>
-<a href="https://github.com/NawfalRAZOUK7/OpportuNest">
-  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=OpportuNest&theme=github_dark&hide_border=true" alt="OpportuNest repository card" />
-</a>
-
-</div>
-
-### Project Highlights
-
-| Project | Preview | Why it matters |
+| Repository | Preview | Why it matters |
 | --- | --- | --- |
-| **[Mental-Health](https://github.com/NawfalRAZOUK7/Mental-Health)** | <img src="./assets/previews/mental-health.svg" width="260" alt="Mental Health analytics preview" /> | Public-health analytics using WHO/IHME GBD data, dashboards, advanced analysis, and ML-ready indicators. |
-| **[SmartHR360 Platform](https://github.com/NawfalRAZOUK7/smarthr360-platform)** | <img src="./assets/previews/smarthr360.svg" width="260" alt="SmartHR360 platform preview" /> | HR analytics and modular people-operations tooling around retention, workload, career simulation, and policy generation. |
-| **[OpportuNest](https://github.com/NawfalRAZOUK7/OpportuNest)** | <img src="./assets/previews/opportunest.svg" width="260" alt="OpportuNest platform preview" /> | Internship management for students and alumni with document submission, CV consultation, and chatbot support. |
-| **[Portfolio](https://www.nawfalrazouk.live/)** | <img src="./assets/previews/portfolio.svg" width="260" alt="Portfolio preview" /> | A central place for projects, experiments, dashboards, and product-building work. |
+| <a href="https://github.com/NawfalRAZOUK7/Mental-Health"><img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=Mental-Health&theme=github_dark&hide_border=true" alt="Mental-Health repository card" /></a> | <img src="./assets/previews/mental-health.svg" width="260" alt="Mental Health analytics preview" /> | Public-health analytics using WHO/IHME GBD data, dashboards, advanced analysis, and ML-ready indicators. |
+| <a href="https://github.com/NawfalRAZOUK7/smarthr360-platform"><img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=smarthr360-platform&theme=github_dark&hide_border=true" alt="smarthr360-platform repository card" /></a> | <img src="./assets/previews/smarthr360.svg" width="260" alt="SmartHR360 platform preview" /> | HR analytics and modular people-operations tooling around retention, workload, career simulation, and policy generation. |
+| <a href="https://github.com/NawfalRAZOUK7/apm-observability"><img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=apm-observability&theme=github_dark&hide_border=true" alt="apm-observability repository card" /></a> | <img src="./assets/previews/apm-observability.svg" width="260" alt="APM observability preview" /> | Observability experiments for telemetry, monitoring, dashboards, and fast operational feedback loops. |
+| <a href="https://github.com/NawfalRAZOUK7/OpportuNest"><img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=OpportuNest&theme=github_dark&hide_border=true" alt="OpportuNest repository card" /></a> | <img src="./assets/previews/opportunest.svg" width="260" alt="OpportuNest platform preview" /> | Internship management for students and alumni with document submission, CV consultation, and chatbot support. |
 
 ---
 
@@ -209,7 +187,9 @@ The trophy board is generated locally from public GitHub data and refreshed by G
 
 I am always improving my craft through real projects, practical experiments, and consistent learning.
 
-Open to internships, collaboration, and practical product work around full-stack development, data platforms, dashboards, and AI-assisted workflows.
+<img src="./assets/previews/portfolio.svg" width="520" alt="Portfolio preview" />
+
+Open to internships, collaboration, and practical product work.
 
 <a href="https://www.nawfalrazouk.live/">
   <img src="https://img.shields.io/static/v1?label=&labelColor=0F172A&message=Explore%20My%20Portfolio&color=38BDF8&style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />

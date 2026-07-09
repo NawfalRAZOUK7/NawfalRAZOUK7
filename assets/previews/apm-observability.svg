@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="430" viewBox="0 0 820 430" role="img" aria-labelledby="title desc">
+  <title id="title">APM observability preview</title>
+  <desc id="desc">A generated observability preview with service health, latency, traces, and dashboard signals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="430" rx="22" fill="url(#bg)"/>
+  <rect x="34" y="34" width="752" height="362" rx="18" fill="#0f172a" opacity=".95"/>
+  <text x="62" y="82" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="800">APM Observability</text>
+  <text x="62" y="112" fill="#94a3b8" font-family="Inter, Segoe UI, Arial" font-size="15">Telemetry, service health, traces, and dashboard experiments</text>
+  <g font-family="Inter, Segoe UI, Arial">
+    <rect x="62" y="148" width="205" height="82" rx="15" fill="#082f49" stroke="#38bdf8" stroke-opacity=".45"/>
+    <rect x="307" y="148" width="205" height="82" rx="15" fill="#052e16" stroke="#22c55e" stroke-opacity=".45"/>
+    <rect x="552" y="148" width="188" height="82" rx="15" fill="#431407" stroke="#f97316" stroke-opacity=".45"/>
+    <text x="86" y="180" fill="#38bdf8" font-size="15" font-weight="800">Latency</text>
+    <text x="86" y="207" fill="#e5e7eb" font-size="28" font-weight="800">128ms</text>
+    <text x="331" y="180" fill="#22c55e" font-size="15" font-weight="800">Health</text>
+    <text x="331" y="207" fill="#e5e7eb" font-size="28" font-weight="800">99.9%</text>
+    <text x="576" y="180" fill="#f97316" font-size="15" font-weight="800">Signals</text>
+    <text x="576" y="207" fill="#e5e7eb" font-size="28" font-weight="800">Live</text>
+  </g>
+  <rect x="62" y="262" width="678" height="82" rx="16" fill="#111827"/>
+  <polyline points="86,316 138,304 190,321 242,286 294,300 346,276 398,294 450,270 502,281 554,260 606,286 658,272 716,292" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="242" cy="286" r="7" fill="#facc15"/>
+  <circle cx="554" cy="260" r="7" fill="#22c55e"/>
+  <text x="62" y="370" fill="#94a3b8" font-family="Inter, Segoe UI, Arial" font-size="13">Useful observability starts with clear signals: metrics, logs, traces, and fast feedback loops.</text>
+</svg>
