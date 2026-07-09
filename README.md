@@ -87,8 +87,8 @@ I am an IT engineer focused on software development, data-driven products, and A
 <a href="https://github.com/NawfalRAZOUK7/apm-observability">
   <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=apm-observability&theme=github_dark&hide_border=true" alt="apm-observability repository card" />
 </a>
-<a href="https://github.com/NawfalRAZOUK7/github-profile-cards">
-  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=github-profile-cards&theme=github_dark&hide_border=true" alt="github-profile-cards repository card" />
+<a href="https://github.com/NawfalRAZOUK7/OpportuNest">
+  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=OpportuNest&theme=github_dark&hide_border=true" alt="OpportuNest repository card" />
 </a>
 
 </div>
