@@ -1,0 +1,39 @@
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate trophy SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: NawfalRAZOUK7
+        run: python .github/scripts/generate_trophies.py
+
+      - name: Commit updated trophy SVG
+        run: |
+          if git diff --quiet -- assets/trophy.svg; then
+            echo "No trophy changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/trophy.svg
+          git commit -m "Update profile trophy SVG"
+          git push

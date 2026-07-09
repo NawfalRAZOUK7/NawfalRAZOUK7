@@ -95,6 +95,16 @@ I am an IT engineer focused on software development, data-driven products, and A
 
 ---
 
+## GitHub Trophies
+
+<div align="center">
+
+<img src="./assets/trophy.svg" alt="GitHub trophy board generated from public profile stats" />
+
+</div>
+
+---
+
 ## GitHub Pulse
 
 <div align="center">
