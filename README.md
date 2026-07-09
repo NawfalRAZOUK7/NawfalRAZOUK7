@@ -2,7 +2,7 @@
 
 <img src="./assets/giphy.gif" width="420" alt="Developer workspace animation" />
 
-# Hi, I'm Nawfal RAZOUK
+<h1>Hi, I'm Nawfal RAZOUK</h1>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img
@@ -33,9 +33,12 @@
   <img src="https://komarev.com/ghpvc/?username=NawfalRAZOUK7&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/NawfalRAZOUK7?style=for-the-badge&color=0ea5e9&labelColor=09344D&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/NawfalRAZOUK7?style=for-the-badge&color=0ea5e9&labelColor=09344D&logo=github" alt="GitHub stars" />
+  <a href="https://github.com/NawfalRAZOUK7/NawfalRAZOUK7/actions/workflows/update-profile-assets.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/NawfalRAZOUK7/NawfalRAZOUK7/update-profile-assets.yml?branch=master&style=for-the-badge&label=PROFILE%20ASSETS&labelColor=09344D&color=0ea5e9&logo=githubactions" alt="Profile assets workflow status" />
+  </a>
 </p>
 
-**Passion. Purpose. Progress.**
+<strong>Passion. Purpose. Progress.</strong>
 
 </div>
 
@@ -48,15 +51,33 @@ I am an IT engineer focused on software development, data-driven products, and A
 - Currently building around **SmartHR360**, analytics dashboards, and applied AI workflows.
 - Interested in **full-stack development**, **data engineering**, **automation**, and **human-centered digital tools**.
 - I enjoy turning rough ideas into working prototypes, then refining them into useful products.
+- Open to **internships**, **collaboration**, and practical full-stack, data, or AI product work.
 - Portfolio: **[nawfalrazouk.live](https://www.nawfalrazouk.live/)**
+
+---
+
+## Now Building
+
+| Focus | What I am shaping |
+| --- | --- |
+| **SmartHR360** | Modular HR analytics, workload views, retention signals, and AI-assisted people workflows. |
+| **Mental Health Analytics** | Public-health dashboards using WHO/IHME GBD data, advanced analysis, and machine learning experiments. |
+| **OpportuNest** | Internship management for students and alumni, including documents, CV consultation, and chatbot support. |
+| **Profile Automation** | Local SVG assets, scheduled GitHub Actions refreshes, and fallback-safe dynamic profile visuals. |
 
 ---
 
 ## Tech Stack
 
+### Stack by Role
+
+| Frontend | Backend | Data and AI | DevOps and Tools |
+| --- | --- | --- | --- |
+| React, Vue, HTML, CSS, Sass, TypeScript | Node.js, Express, Java, Python APIs | Python, SQL, Streamlit, ML workflows | Git, GitHub Actions, Docker, Linux, Bash |
+
 <div align="center">
 
-### Languages, Frameworks, Databases, and Tools
+<h3>Languages, Frameworks, Databases, and Tools</h3>
 
 <img
   src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,java,dart,react,vue,nodejs,express,mongodb,postgres,mysql,sqlite,firebase,git,github,githubactions,docker,linux,bash,vscode,figma&perline=13"
@@ -93,6 +114,15 @@ I am an IT engineer focused on software development, data-driven products, and A
 
 </div>
 
+### Project Highlights
+
+| Project | Preview | Why it matters |
+| --- | --- | --- |
+| **[Mental-Health](https://github.com/NawfalRAZOUK7/Mental-Health)** | <img src="./assets/previews/mental-health.svg" width="260" alt="Mental Health analytics preview" /> | Public-health analytics using WHO/IHME GBD data, dashboards, advanced analysis, and ML-ready indicators. |
+| **[SmartHR360 Platform](https://github.com/NawfalRAZOUK7/smarthr360-platform)** | <img src="./assets/previews/smarthr360.svg" width="260" alt="SmartHR360 platform preview" /> | HR analytics and modular people-operations tooling around retention, workload, career simulation, and policy generation. |
+| **[OpportuNest](https://github.com/NawfalRAZOUK7/OpportuNest)** | <img src="./assets/previews/opportunest.svg" width="260" alt="OpportuNest platform preview" /> | Internship management for students and alumni with document submission, CV consultation, and chatbot support. |
+| **[Portfolio](https://www.nawfalrazouk.live/)** | <img src="./assets/previews/portfolio.svg" width="260" alt="Portfolio preview" /> | A central place for projects, experiments, dashboards, and product-building work. |
+
 ---
 
 ## GitHub Trophies
@@ -102,6 +132,8 @@ I am an IT engineer focused on software development, data-driven products, and A
 <img src="./assets/trophy.svg" alt="GitHub trophy board generated from public profile stats" />
 
 </div>
+
+The trophy board is generated locally from public GitHub data and refreshed by GitHub Actions, so it does not depend on the public trophy services that can fail with billing or rate-limit errors.
 
 ---
 
@@ -173,9 +205,11 @@ I am an IT engineer focused on software development, data-driven products, and A
 
 <div align="center">
 
-### Let's Build Something Useful
+<h3>Let's Build Something Useful</h3>
 
 I am always improving my craft through real projects, practical experiments, and consistent learning.
+
+Open to internships, collaboration, and practical product work around full-stack development, data platforms, dashboards, and AI-assisted workflows.
 
 <a href="https://www.nawfalrazouk.live/">
   <img src="https://img.shields.io/static/v1?label=&labelColor=0F172A&message=Explore%20My%20Portfolio&color=38BDF8&style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />

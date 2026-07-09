@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="430" viewBox="0 0 820 430" role="img" aria-labelledby="title desc">
+  <title id="title">Mental Health analytics dashboard preview</title>
+  <desc id="desc">A generated dashboard preview showing analytics cards, charts, and public health indicators.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="430" rx="22" fill="url(#bg)"/>
+  <rect x="32" y="34" width="756" height="362" rx="18" fill="#0f172a" opacity=".94"/>
+  <text x="60" y="82" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial" font-size="28" font-weight="800">Mental Health Analytics</text>
+  <text x="60" y="112" fill="#94a3b8" font-family="Inter, Segoe UI, Arial" font-size="15">WHO/IHME GBD insights, risk trends, and ML-ready indicators</text>
+  <g font-family="Inter, Segoe UI, Arial">
+    <rect x="60" y="145" width="155" height="86" rx="14" fill="#082f49"/>
+    <rect x="235" y="145" width="155" height="86" rx="14" fill="#064e3b"/>
+    <rect x="410" y="145" width="155" height="86" rx="14" fill="#312e81"/>
+    <rect x="585" y="145" width="155" height="86" rx="14" fill="#7f1d1d"/>
+    <text x="82" y="178" fill="#38bdf8" font-size="13" font-weight="700">Countries</text>
+    <text x="82" y="208" fill="#f8fafc" font-size="30" font-weight="800">120+</text>
+    <text x="257" y="178" fill="#34d399" font-size="13" font-weight="700">Indicators</text>
+    <text x="257" y="208" fill="#f8fafc" font-size="30" font-weight="800">GBD</text>
+    <text x="432" y="178" fill="#a78bfa" font-size="13" font-weight="700">Models</text>
+    <text x="432" y="208" fill="#f8fafc" font-size="30" font-weight="800">ML</text>
+    <text x="607" y="178" fill="#fca5a5" font-size="13" font-weight="700">Dashboards</text>
+    <text x="607" y="208" fill="#f8fafc" font-size="30" font-weight="800">Live</text>
+  </g>
+  <rect x="60" y="260" width="330" height="88" rx="12" fill="#111827"/>
+  <polyline points="86,326 130,305 175,315 220,286 265,296 320,274 360,282" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linecap="round"/>
+  <rect x="430" y="260" width="310" height="88" rx="12" fill="#111827"/>
+  <rect x="458" y="306" width="42" height="25" rx="5" fill="#38bdf8"/>
+  <rect x="520" y="288" width="42" height="43" rx="5" fill="#34d399"/>
+  <rect x="582" y="274" width="42" height="57" rx="5" fill="#facc15"/>
+  <rect x="644" y="296" width="42" height="35" rx="5" fill="#f97316"/>
+</svg>
