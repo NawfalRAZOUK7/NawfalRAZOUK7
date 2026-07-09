@@ -15,15 +15,15 @@
   /></a>
   <a href="https://www.frontendmentor.io/profile/NawfalRAZOUK7" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FRONTEND MENTOR&color=09344D&style=for-the-badge&logo=frontend mentor&logoColor=white"
+      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FRONTEND%20MENTOR&color=09344D&style=for-the-badge&logo=frontendmentor&logoColor=white"
   /></a>
   <a href="https://chatbot-razouk.vercel.app/" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CHAT BOT&color=09344D&style=for-the-badge&logo=chatbot&logoColor=white"
+      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CHAT%20BOT&color=09344D&style=for-the-badge&logo=chatbot&logoColor=white"
   /></a>
   <a href="https://www.nawfalrazouk.live/" target="blank"
     ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=Port Folio&color=09344D&style=for-the-badge&logo=wwe&logoColor=white"
+      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=PORTFOLIO&color=09344D&style=for-the-badge&logo=wwe&logoColor=white"
   /></a>
 </p>
 
@@ -87,16 +87,16 @@
     src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SQLITE&color=09344D&style=flat&logo=sqlite"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ANDROID STUDIO&color=09344D&style=flat&logo=android studio"
+    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ANDROID%20STUDIO&color=09344D&style=flat&logo=androidstudio"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETBEANS&color=09344D&style=flat&logo=apache netbeans ide"
+    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETBEANS&color=09344D&style=flat&logo=apachenetbeanside"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ECLIPSE&color=09344D&style=flat&logo=eclipse ide"
+    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ECLIPSE&color=09344D&style=flat&logo=eclipseide"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VS CODE&color=09344D&logoColor=blue&style=flat&logo=visual studio code"
+    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VS%20CODE&color=09344D&logoColor=blue&style=flat&logo=visualstudiocode"
   />
   <img
     src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GIT&color=09344D&style=flat&logo=git"
@@ -105,10 +105,10 @@
     src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB&color=09344D&style=flat&logo=github"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB PAGES&color=09344D&style=flat&logo=github pages"
+    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB%20PAGES&color=09344D&style=flat&logo=githubpages"
   />
   <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BASH&color=09344D&logoColor=white&style=flat&logo=gnu bash"
+    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BASH&color=09344D&logoColor=white&style=flat&logo=gnubash"
   />
   <img
     src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINUX&color=09344D&style=flat&logo=linux"
@@ -137,7 +137,7 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="Nawfal RAZOUK's streak"
-      src="https://github-readme-stats-alpha-vert-57.vercel.app/?user=NawfalRAZOUK7&theme=prussian&background=09344D&fire=white&ring=white&sideNums=white&sideLabels=white&dates=667BCD&hide_border=true"
+      src="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=prussian&hide_border=true&bg_color=09344D&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     />
   </a>
   <a href="https://git.io/streak-stats">
