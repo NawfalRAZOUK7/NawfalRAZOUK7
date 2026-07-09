@@ -1,161 +1,177 @@
-### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Nawfal!</span> 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="./assets/giphy.gif" />
-</p>
+<img src="./assets/giphy.gif" width="420" alt="Developer workspace animation" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nawfal-razouk/" target="blank"
-    ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINKEDIN&color=09344D&style=for-the-badge&logo=linkedin"
-  /></a>
-  <a href="https://twitter.com/RAZOUKNawfal7" target="blank"
-    ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=TWITTER&color=09344D&style=for-the-badge&logo=twitter&logoColor=white"
-  /></a>
-  <a href="https://www.frontendmentor.io/profile/NawfalRAZOUK7" target="blank"
-    ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FRONTEND%20MENTOR&color=09344D&style=for-the-badge&logo=frontendmentor&logoColor=white"
-  /></a>
-  <a href="https://chatbot-razouk.vercel.app/" target="blank"
-    ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CHAT%20BOT&color=09344D&style=for-the-badge&logo=chatbot&logoColor=white"
-  /></a>
-  <a href="https://www.nawfalrazouk.live/" target="blank"
-    ><img
-      src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=PORTFOLIO&color=09344D&style=for-the-badge&logo=wwe&logoColor=white"
-  /></a>
-</p>
+# Hi, I'm Nawfal RAZOUK
 
-<p align="center">
-  <strong>“Passion. Purpose. Progress.”</strong>
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=IT+Engineer+%7C+Full-Stack+Developer;Data+%26+AI+Builder;I+turn+ideas+into+useful+digital+products"
+    alt="Typing animation introducing Nawfal RAZOUK"
+  />
+</a>
 
----
-
-<p align="left">
-  With a keen eye for detail and a creative approach, I am a IT engineer who is deeply fascinated by Software Development. I am driven by a thirst for knowledge and a determination to tackle real-world challenges. My passion for exploring new technologies and domains allows me to create innovative solutions. Currently, I am honing my skills in web development and striving to build my vision of a digital world, one step at a time.💻✨
-</p>
-
----
-
-<h3 align="center">💻 Technologies and Tools 🛠️</h3>
-<p align="center">
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=HTML5&color=09344D&style=flat&logo=html5"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CSS3&color=09344D&logoColor=blue&style=flat&logo=css3"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SASS&color=09344D&style=flat&logo=sass"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=JAVASCRIPT&color=09344D&style=flat&logo=javascript"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MONGO-DB&color=09344D&style=flat&logo=mongodb"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=EXPRESS.JS&color=09344D&style=flat&logo=express"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=REACT.JS&color=09344D&style=flat&logo=react"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NODE.JS&color=09344D&style=flat&logo=node.js"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=POSTGRESQL&color=09344D&style=flat&logo=postgresql"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VUE.JS&color=09344D&style=flat&logo=vue.js"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FIREBASE&color=09344D&style=flat&logo=firebase"
-  />
-  <img
-    src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=JAVA&color=09344D&logoColor=white&style=flat&logo=java"
-  />
-  <img
-    src="https://custom-icon-badges.demolab.com/static/v1?label=&labelColor=09344D&message=SQL&color=09344D&logoColor=white&style=flat&logo=database"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=MYSQL&color=09344D&logoColor=gold&style=flat&logo=mysql"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=SQLITE&color=09344D&style=flat&logo=sqlite"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ANDROID%20STUDIO&color=09344D&style=flat&logo=androidstudio"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETBEANS&color=09344D&style=flat&logo=apachenetbeanside"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ECLIPSE&color=09344D&style=flat&logo=eclipseide"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=VS%20CODE&color=09344D&logoColor=blue&style=flat&logo=visualstudiocode"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GIT&color=09344D&style=flat&logo=git"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB&color=09344D&style=flat&logo=github"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=GITHUB%20PAGES&color=09344D&style=flat&logo=githubpages"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=BASH&color=09344D&logoColor=white&style=flat&logo=gnubash"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINUX&color=09344D&style=flat&logo=linux"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ADOBE&color=09344D&style=flat&logo=adobe&logoColor=ff0000"
-  />
-</p>
-
-<h3 align="center">👨‍💻 Most Used Languages 📊</h3>
-
-<p align="center">
-  <a href="https://www.nawfalrazouk.live/" target="blank"
-    ><img
-      src="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=tokyonight"
-  /></a>
-</p>
-
----
-
-<h3 align="center">🚀 My GitHub Stats 📈</h3>
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="Nawfal RAZOUK's streak"
-      src="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=prussian&hide_border=true&bg_color=09344D&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    />
+<p>
+  <a href="https://www.linkedin.com/in/nawfal-razouk/">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=LINKEDIN&color=09344D&style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=NawfalRAZOUK7&hide_border=true&border_radius=8&background=45%2C020617%2C1E293B&dates=38BDF8&fire=F97316&border=0EA5E9&stroke=0EA5E9&ring=F97316&currStreakNum=FACC15&sideNums=E5E7EB&currStreakLabel=E5E7EB&sideLabels=CBD5F5&excludeDaysLabel=E5E7EB"
-      alt="GitHub Streak"
-    />
+  <a href="https://twitter.com/RAZOUKNawfal7">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=TWITTER&color=09344D&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <br />
-</p>
-
----
-
-<h3 align="center">🚀 My Codewars Badge 📈</h3>
-<p align="center">
-  <a href="https://www.codewars.com/users/NawfalRAZOUK7">
-    <img
-      src="https://www.codewars.com/users/NawfalRAZOUK7/badges/large"
-    />
+  <a href="https://www.frontendmentor.io/profile/NawfalRAZOUK7">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=FRONTEND%20MENTOR&color=09344D&style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" />
+  </a>
+  <a href="https://chatbot-razouk.vercel.app/">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=CHAT%20BOT&color=09344D&style=for-the-badge&logo=googlemessages&logoColor=white" alt="Chat bot" />
+  </a>
+  <a href="https://www.nawfalrazouk.live/">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=PORTFOLIO&color=09344D&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NawfalRAZOUK7&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NawfalRAZOUK7?style=for-the-badge&color=0ea5e9&labelColor=09344D&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/NawfalRAZOUK7?style=for-the-badge&color=0ea5e9&labelColor=09344D&logo=github" alt="GitHub stars" />
+</p>
+
+**Passion. Purpose. Progress.**
+
+</div>
+
+---
+
+## About Me
+
+I am an IT engineer focused on software development, data-driven products, and AI-assisted platforms. I like building practical systems that connect clean interfaces, useful automation, and real-world analytics.
+
+- Currently building around **SmartHR360**, analytics dashboards, and applied AI workflows.
+- Interested in **full-stack development**, **data engineering**, **automation**, and **human-centered digital tools**.
+- I enjoy turning rough ideas into working prototypes, then refining them into useful products.
+- Portfolio: **[nawfalrazouk.live](https://www.nawfalrazouk.live/)**
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages, Frameworks, Databases, and Tools
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,java,dart,react,vue,nodejs,express,mongodb,postgres,mysql,sqlite,firebase,git,github,githubactions,docker,linux,bash,vscode,figma&perline=13"
+  alt="Technology stack icons"
+/>
+
+<br /><br />
+
+<img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ANDROID%20STUDIO&color=09344D&style=flat&logo=androidstudio" alt="Android Studio" />
+<img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=NETBEANS&color=09344D&style=flat&logo=apachenetbeanside" alt="NetBeans" />
+<img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ECLIPSE&color=09344D&style=flat&logo=eclipseide" alt="Eclipse" />
+<img src="https://img.shields.io/static/v1?label=&labelColor=09344D&message=ADOBE&color=09344D&style=flat&logo=adobe&logoColor=ff0000" alt="Adobe" />
+
+</div>
+
+---
+
+## Featured Work
+
+<div align="center">
+
+<a href="https://github.com/NawfalRAZOUK7/Mental-Health">
+  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=Mental-Health&theme=github_dark&hide_border=true" alt="Mental-Health repository card" />
+</a>
+<a href="https://github.com/NawfalRAZOUK7/smarthr360-platform">
+  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=smarthr360-platform&theme=github_dark&hide_border=true" alt="smarthr360-platform repository card" />
+</a>
+<a href="https://github.com/NawfalRAZOUK7/apm-observability">
+  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=apm-observability&theme=github_dark&hide_border=true" alt="apm-observability repository card" />
+</a>
+<a href="https://github.com/NawfalRAZOUK7/github-profile-cards">
+  <img src="https://github-readme-stats-alpha-vert-57.vercel.app/api/pin/?username=NawfalRAZOUK7&repo=github-profile-cards&theme=github_dark&hide_border=true" alt="github-profile-cards repository card" />
+</a>
+
+</div>
+
+---
+
+## GitHub Pulse
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    alt="Nawfal RAZOUK GitHub stats"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=default&hide_border=true&langs_count=8"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Nawfal RAZOUK most used languages"
+  />
+</picture>
+
+<br /><br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NawfalRAZOUK7&theme=github_dark"
+  alt="GitHub profile summary"
+/>
+
+<br /><br />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NawfalRAZOUK7&theme=react-dark&hide_border=true&area=true&custom_title=Nawfal%27s%20Contribution%20Graph"
+  alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+---
+
+## Codewars
+
+<div align="center">
+
+<a href="https://www.codewars.com/users/NawfalRAZOUK7">
+  <img src="https://www.codewars.com/users/NawfalRAZOUK7/badges/large" alt="Nawfal RAZOUK Codewars badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Build Something Useful
+
+I am always improving my craft through real projects, practical experiments, and consistent learning.
+
+<a href="https://www.nawfalrazouk.live/">
+  <img src="https://img.shields.io/static/v1?label=&labelColor=0F172A&message=Explore%20My%20Portfolio&color=38BDF8&style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/nawfal-razouk/">
+  <img src="https://img.shields.io/static/v1?label=&labelColor=0F172A&message=Connect%20on%20LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+</a>
+
+</div>
