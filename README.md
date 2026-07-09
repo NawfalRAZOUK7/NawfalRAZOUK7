@@ -53,28 +53,33 @@ I am an IT engineer focused on software development, data-driven products, and A
 
 ---
 
-## Now Building
-
-| Focus | What I am shaping |
-| --- | --- |
-| **SmartHR360** | Modular HR analytics, workload views, retention signals, and AI-assisted people workflows. |
-| **Mental Health Analytics** | Public-health dashboards using WHO/IHME GBD data, advanced analysis, and machine learning experiments. |
-| **OpportuNest** | Internship management for students and alumni, including documents, CV consultation, and chatbot support. |
-| **Profile Automation** | Local SVG assets, scheduled GitHub Actions refreshes, and fallback-safe dynamic profile visuals. |
-
----
-
 ## Tech Stack
-
-### Stack by Role
-
-| Frontend | Backend | Data and AI | DevOps and Tools |
-| --- | --- | --- | --- |
-| React, Vue, HTML, CSS, Sass, TypeScript | Node.js, Express, Java, Python APIs | Python, SQL, Streamlit, ML workflows | Git, GitHub Actions, Docker, Linux, Bash |
 
 <div align="center">
 
-<h3>Languages, Frameworks, Databases, and Tools</h3>
+<h3>Stack by Role</h3>
+
+<p>
+  <strong>Frontend</strong><br />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue&perline=7" alt="Frontend stack icons" />
+</p>
+
+<p>
+  <strong>Backend</strong><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,firebase&perline=5" alt="Backend stack icons" />
+</p>
+
+<p>
+  <strong>Data and AI</strong><br />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,mongodb&perline=5" alt="Data and AI stack icons" />
+</p>
+
+<p>
+  <strong>DevOps and Tools</strong><br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vscode,figma&perline=8" alt="DevOps and tools icons" />
+</p>
+
+<h3>Full Toolkit</h3>
 
 <img
   src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,java,dart,react,vue,nodejs,express,mongodb,postgres,mysql,sqlite,firebase,git,github,githubactions,docker,linux,bash,vscode,figma&perline=13"
@@ -119,44 +124,7 @@ The trophy board is generated locally from public GitHub data and refreshed by G
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-alpha-vert-57.vercel.app/api?username=NawfalRAZOUK7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    alt="Nawfal RAZOUK GitHub stats"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=default&hide_border=true&langs_count=8"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-alpha-vert-57.vercel.app/api/top-langs/?username=NawfalRAZOUK7&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Nawfal RAZOUK most used languages"
-  />
-</picture>
-
-<br /><br />
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NawfalRAZOUK7&theme=github_dark"
-  alt="GitHub profile summary"
-/>
+<img src="./assets/profile-pulse.svg" alt="GitHub pulse generated from public profile metrics and language usage" />
 
 <br /><br />
 
